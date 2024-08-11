@@ -1,0 +1,10 @@
+What we did this week: 
+Created a GitHub repo for the project (please send us a username if you'd like us to add you as a viewer for easier monitoring).
+Read what you've sent us and summerized it (file in repo).
+Defined the project's goal and steps in the way.
+
+What we will do in the upcoming week:
+Learn to use ORB-SLAM, COL-MAP, including api.
+
+In what do we need help:
+We'd like to get some info regarding the avilabale drones and infra-red cameras, including api sources.
