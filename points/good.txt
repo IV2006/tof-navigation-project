@@ -1,0 +1,27 @@
+y - yes, n - no, m - maybe
+if writen # after its for comment
+
+0 - m
+1 - m
+2 - n
+3 - n
+4 - m
+5 - m
+6 - m
+7 - m
+8 - y
+9 - y #data after ipcl
+10 - y #the same as 9..?
+11 - y #same as 9 again...
+(12 - 21) - y #on brief look they're the same... (probably when we tried to get quad?)
+22 - y
+23 - y
+24 - y
+25 - y
+26 - m
+27 - y
+28 - n
+29 - m
+30 - y
+31 - n
+32 - m
